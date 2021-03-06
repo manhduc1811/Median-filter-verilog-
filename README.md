@@ -9,3 +9,9 @@ The module of the state machine
 test_lena.v:
 test banch 
 
+https://en.wikipedia.org/wiki/Signal_processing
+
+Wiener filter
+
+Kalman filter
+
